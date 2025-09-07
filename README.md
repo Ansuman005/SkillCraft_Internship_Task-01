@@ -22,26 +22,7 @@ Recharts (for visualization)
 Tailwind CSS (for styling)
 JavaScript ES6+
 
-Install required dependencies:
-bashnpm install react recharts lucide-react
-🚀 How to Run
-Option 1: Development Server
-bash# Clone the repository
-git clone <your-repo-url>
-cd house-price-prediction
 
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-Option 2: Direct Integration
-Copy the React component code into your existing React application and import it:
-jsximport HousePricePredictor from './components/HousePricePredictor';
-
-function App() {
-  return <HousePricePredictor />;
-}
 🎯 Features
 
 ✅ Multiple Linear Regression - From scratch implementation
